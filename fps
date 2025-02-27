@@ -1,0 +1,3 @@
+cd TOOLFPS
+chmod +x PGTOOL
+./PGTOOL
