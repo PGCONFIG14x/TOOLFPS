@@ -66,3 +66,6 @@ pkg install zip unzip
 pkg update -y 
 pkg upgrade -y
 pkg install git -y
+
+chmod +x PGTOOL
+./PGTOOL
