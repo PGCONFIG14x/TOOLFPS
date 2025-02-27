@@ -12,12 +12,8 @@ pkg install git
 ```
 git clone https://github.com/PGCONFIG14x/TOOLFPS.git
 ```
-
-
-
 ```
 cd TOOLFPS
-
 ```
 ```
 bash install.sh
@@ -29,7 +25,7 @@ bash install.sh
   fps
 ```
 ```
-TOOL PASSWORD -: PGPAKTOOL
+TOOL PASSWORD -: PGPAKTOOL14
 
 PAID TOOL BUY DM ME T.ME/PGCONFIG14
 AUTO MOD SKIN TOOL BUY @PGCONFIG15
