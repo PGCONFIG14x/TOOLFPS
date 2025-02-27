@@ -10,7 +10,7 @@ termux-setup-storage
 pkg install git
 ```
 ```
-git clone https://github.com/PGCONFIG14x/PAKTOOL.git
+git clone https://github.com/PGCONFIG14x/TOOLFPS.git
 ```
 
 
